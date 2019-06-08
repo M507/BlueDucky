@@ -26,7 +26,7 @@ $ cp inject.bin /<usb path>/
 ```
 
 ### Configuration
-- All scrpits/plans must be is Config/
+- All scrpits/plans must be in Config/
 - Windows scrpits/plans must have .ps1 extension
 - Linux scrpits/plans must have .sh extension
 - BlueDucky/Config/startingAccounts file is where the default credentials should be.
