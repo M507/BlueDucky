@@ -43,7 +43,7 @@ Linux:dnsadmin:10.2.2.202:Admin123#
 Win:THISisTHEnewPASSWORD
 Linux:UPDATEDpassword
 ```
-- BlueDucky configers all users according to Config/NewPasswords file.
+- BlueDucky changes all passwords to what is in Config/NewPasswords file.
 
 - BlueDucky/Config/NewUsers file is where the backup users shoud be, they will be created after chaning the password for the default users.
 ```
