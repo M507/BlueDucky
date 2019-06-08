@@ -9,7 +9,7 @@ The idea behind this tool is to create different payloads for each member as fas
 
 The goal is to design the fastest incident response plan, which should include:
 - Changing every user's password in every box.
-- Executing customized scripts to setup firewall rules, setup up new users, cleaning cronjobs/scheduled task... you know the drill ...
+- Executing customized scripts to setup firewall rules, setup up new users, clean cronjobs/scheduled task... you know the drill ...
 
 ### Setup
 ```sh
