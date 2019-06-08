@@ -1,6 +1,7 @@
 # BlueDucky
 ![logo](https://github.com/M507/BlueDucky/raw/master/p.png)
-BlueDucky is a blue-team tool. It generates a list of USB-Rubber-Ducky instructions. 
+
+* BlueDucky is a blue-team tool. It generates a list of USB-Rubber-Ducky instructions. 
 
 
 The idea behind this tool is to create different payloads for each member as fast as possible.  Each member of the team will have a USB-Rubber-Ducky. Each member will be responsible of setting up different boxes. Here where the tool comes handy, the team can make a customized USB-Rubber-Ducky payload for each member. Payloads that run PowerShell and SSH into each box and execute a list of instructions for each box and making payloads will not take more than a minute before the competition.
