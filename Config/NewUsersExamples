@@ -1,0 +1,20 @@
+OS:username:password:admin/regular
+
+
+# Example:
+# In every windows server the user Admin123 will be created
+# With this password MyPasswordIs123456 and it will be an Admin.
+Win:Admin123:MyPasswordIs123456:1
+
+# In this case, In every windows server the user intern01
+# will be created With this password 1234567890
+# and it will NOTbe an Admin.
+Win:intern01:1234567890:0
+
+# In this case, the username is admin with toor as its password
+# and it will be added to sudo group.
+Linux:admin:toor:1
+
+
+
+#You know the drill
