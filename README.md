@@ -54,7 +54,7 @@ Linux:user1:123456:0
 ```
 - BlueDucky/Plans directory is where the firewall/anyscrpit scrpts should be.
 
-### Support
+### Requirements
 
 - python3
 - java
